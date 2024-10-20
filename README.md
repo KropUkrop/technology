@@ -1,0 +1,2 @@
+# technology
+zadanie po prog
