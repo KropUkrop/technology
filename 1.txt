@@ -1,6 +1,1 @@
 Привет
-<<<<<<< HEAD
-hiiii
-=======
-kkfaskfaksfka
->>>>>>> 2762c08733719fa279d6617d90f0b30d8131ca1c
